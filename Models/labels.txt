@@ -1,0 +1,7 @@
+0 Dog
+1 Hello
+2 ILoveYou
+3 No
+4 Ok
+5 ThankYou
+6 Yes
